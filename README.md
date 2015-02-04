@@ -10,11 +10,11 @@ Here's an easy way to get around it:
 1. Install the [User Agent Overrider](https://addons.mozilla.org/en-US/firefox/addon/user-agent-overrider/) extension. This will allow you to "disguise" your browser.
 
 2. Open the Preferences option for the extension
-[!Preferences](ss2.png)
+![Preferences](ss2.png)
 
 3. Copy paste this User Agent in:
 >Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.94 Safari/537.36
-[!User Agent](ss3.png)
+![User Agent](ss3.png)
 
 4. Open Whatsapp Web from your mobile device's settings in Whatsapp. 
 
